@@ -14,4 +14,6 @@ public class ReverseString {
         String reversedString = reverseString(name);
         System.out.println(reversedString);
     }
+
+    //TODO to create a recursive method which will reverse the String and will check if the String is palindrom or not.
 }
